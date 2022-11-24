@@ -105,8 +105,8 @@ body {
     line-height: 1.16;
     text-align: center;
 }
-/*Приховує заголовок другої секції  */
-.portfolio > .invisible-title {
+/*Приховує заголовок секції  */
+.invisible-title {
     display: none;
 }
 /* Features */
